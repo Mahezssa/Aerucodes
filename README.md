@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Aeru and I'm a Software Engineer, from Indonesia</p>
+<p align="left">My name is Aeru and I'm a Fullstack Developer, from Indonesia</p>
 
 ###
 
