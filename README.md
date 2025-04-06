@@ -4,7 +4,6 @@
 
 <p align="left">
   My name is Aeru and I'm a Fullstack Developer, from Indonesia
-  My hobby is to travel, and programming.
 </p>
 
 ###
@@ -13,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Aeru is my developer name<br>📚 I'm currently learning Solidity<br>🎯 Goals: Freedom from Boredom<br>🎲 Fun fact: I'm smol</p>
+<p align="left">✨ Aeru is my developer name<br>📚 I'm currently learning Solidity<br>🎯 Goals: Freedom from Boredom<br>🎲 Fun fact: I love traveling around the world, currently residing in Singapore.</p>
 
 ###
 
