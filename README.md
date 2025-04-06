@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">My name is Aeru and I'm a Fullstack Developer, from Indonesia</p>
+<p align="left">
+  My name is Aeru and I'm a Fullstack Developer, from Indonesia
+  My hobby is to travel, and programming.
+</p>
 
 ###
 
