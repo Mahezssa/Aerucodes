@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Aeru is my developer name<br>📚 I'm currently learning Solidity<br>🎯 Goals: Freedom from Boredom<br>🎲 Fun fact: I love traveling around the world, currently residing in Singapore.</p>
+<p align="left">✨ Mahesza is my developer name<br>📚 I'm currently learning Solidity<br>🎯 Goals: Freedom from Boredom<br>🎲 Fun fact: I love traveling around the world, currently residing in Singapore.</p>
 
 ###
 
