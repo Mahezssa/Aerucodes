@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  My name is Aeru and I'm a Fullstack Developer, from Indonesia
+  My name is Mahesza and I'm a Fullstack Developer, from Indonesia
 </p>
 
 ###
